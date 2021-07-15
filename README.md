@@ -1,7 +1,7 @@
 [//]: # (Image References)
 
-[image1]: https://user-images.githubusercontent.com/44867889/125613792-c9b8ed36-814b-478a-80e2-1c40bb401de6.gif "tennis_test"
-[image2]: https://user-images.githubusercontent.com/44867889/125613796-6593cec7-fc37-425f-a665-1f8b55e4cb43.gif "tennis_trained"
+[image1]: https://user-images.githubusercontent.com/44867889/125815087-0fcc9cd5-55ff-4a9f-8e65-349e87a2fe52.gif "tennis_test"
+[image2]: https://user-images.githubusercontent.com/44867889/125815090-b730cd1d-32a1-4cf5-8beb-6f82141d2c70.gif "tennis_trained"
 
 
 # Project 3: Collaboration and Competition
@@ -79,6 +79,6 @@ python -m ipykernel install --user --name drlnd --display-name "drlnd"
 
 
 For code for models and agents, see files `critic.py`,`actor.py` and `agent.py` .
-The training code for this project is in file `Project3_collaboration_competition.ipynd`, and it will be easy to understand if you focus more on the **4. Train Model part
+The training code for this project is in file `Tennis.ipynd`, and it will be easy to understand if you focus more on the  **`4. Train Model part`.
 
 
