@@ -26,7 +26,7 @@ device = torch.device("cuda:0" if torch.cuda.is_available() else "cpu")
 
 class Agent():
     """Main DDPG agent that extracts experiences and learns from them"""
-    def __init__(self, state_size=24, action_size=2, random_seed=0):
+    def __init__(self, state_size, action_size, random_seed=0):
         """
         Initializes Agent object.
         @Param:
