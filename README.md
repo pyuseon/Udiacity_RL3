@@ -1,7 +1,7 @@
 [//]: # (Image References)
 
-[image1]: https://user-images.githubusercontent.com/10624937/42135623-e770e354-7d12-11e8-998d-29fc74429ca2.gif "Trained Agent"
-[image2]: https://user-images.githubusercontent.com/10624937/42135622-e55fb586-7d12-11e8-8a54-3c31da15a90a.gif "Soccer"
+[image1]: https://user-images.githubusercontent.com/44867889/125613792-c9b8ed36-814b-478a-80e2-1c40bb401de6.gif "tennis_test"
+[image2]: https://user-images.githubusercontent.com/44867889/125613796-6593cec7-fc37-425f-a665-1f8b55e4cb43.gif "tennis_trained"
 
 
 # Project 3: Collaboration and Competition
@@ -10,12 +10,9 @@
 
 For this project, you will work with the [Tennis](https://github.com/Unity-Technologies/ml-agents/blob/master/docs/Learning-Environment-Examples.md#tennis) environment.
 
-![Trained Agent][image1]
-
-
 Random Agent|Trained Agent
 ----|----
-![Random Agent][image1]|![Trained Agent][image2]
+![image1]|![image2]
 
 In this environment, two agents control rackets to bounce a ball over a net. If an agent hits the ball over the net, it receives a reward of +0.1.  If an agent lets a ball hit the ground or hits the ball out of bounds, it receives a reward of -0.01.  Thus, the goal of each agent is to keep the ball in play.
 
@@ -77,7 +74,6 @@ python -m ipykernel install --user --name drlnd --display-name "drlnd"
 
 5. Before running code in a notebook, change the kernel to match the `drlnd` environment by using the drop-down `Kernel` menu. 
 
-![Kernel][image2]
 
 ### Instructions
 
